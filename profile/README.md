@@ -8,7 +8,7 @@
 - Logicologist - Project Lead
 - Olzie-12 - Plugin Developer
 - Chr0matic - Plugin Developer  
-- iWillBanU - Plugin Developer
+- iWillBanU - Website Developer
 - JimTheScientist - Systems Admin
 ## Here's some of our history:
 | Season                        | Release Date    | Members         |
