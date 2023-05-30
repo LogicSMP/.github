@@ -4,13 +4,13 @@ Reinventing Minecraft without mods, now featuring your favorite content creators
 #### We are the team of developers behind the entire LogicSMP Project, slowly expanding since 2019.
 ####
 ## Featuing:
-- `Logicologist ....... (Project Lead)`
+- `Logicologist ....... (Project Lead)    `
 - `Olzie-12 ........... (Plugin Developer)`
-- `iWillBanU .......... (Web Developer)`
+- `iWillBanU .......... (Web Developer)   `
 - `Chr0matic .......... (Plugin Developer)`
-- `JimTheScientist .... (System Admin)`
+- `JimTheScientist .... (System Admin)    `
 ## Here's some of our history:
-- `Season 4 ......................... Coming Soon! .... ~60 Members?`
+- `Season 4 ......................... Coming Soon! .... ~60 Members`
 - `Season 3 ......................... September 2021 .. ~20 Members`
 - `Season 2 ......................... March 2021 ...... ~20 Members`
 - `Season 1 ......................... November 2020 ... ~20 Members`
