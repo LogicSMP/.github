@@ -6,7 +6,7 @@ Reinventing Minecraft without mods, now featuring your favorite content creators
 ## Featuring:
 **Logicologist** *as* **Project Lead**
 **Olzie-12** *as* **Plugin Developer**
-**iWillBanU *as* **Web Developer**
+**iWillBanU** *as* **Web Developer**
 **Chr0matic** *as* **Plugin Developer**
 **JimTheScientist** *as* **Systems Admin**
 ## Here's some of our history:
