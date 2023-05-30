@@ -1,12 +1,23 @@
-## Hi there 👋
+## Welcome to the LogicSMP Organization Page!
+Reinventing Minecraft without mods, now featuring your favorite content creators!
 
-<!--
+#### We are the team of developers behind the entire LogicSMP Project, slowly expanding since 2019.
+####
+## Featuing:
+- `Logicologist ....... (Project Lead)`
+- `Olzie-12 ........... (Plugin Developer)`
+- `iWillBanU .......... (Web Developer)`
+- `Chr0matic .......... (Plugin Developer)`
+- `JimTheScientist .... (System Admin)`
+## Here's some of our history:
+- `Season 4 ......................... Coming Soon! .... ~60 Members?`
+- `Season 3 ......................... September 2021 .. ~20 Members`
+- `Season 2 ......................... March 2021 ...... ~20 Members`
+- `Season 1 ......................... November 2020 ... ~20 Members`
+- `Season 0 (Craftventure SMP) ...... May 2020 ........  28 Members`
+- `Season -1 (Celestial Space) ...... August 2019 .....  10 Members`
+## Go check our socials!
+- Twitter: https://twitter.com/TheLogicSMP
+- Website: https://logicsmp.net/
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+What are you waiting for? Adventure awaits...
