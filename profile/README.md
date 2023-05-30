@@ -3,14 +3,14 @@
 #### We are the team of developers behind the entire LogicSMP Project, slowly expanding since 2019.
 ####
 ## Meet the Development Team!
-###> Project Lead  
-###&nbsp;&nbsp;&nbsp;**Logicologist**  
-###> Plugin Developers  
-###&nbsp;&nbsp;&nbsp;**Olzie-12**  
-###&nbsp;&nbsp;&nbsp;**Chr0matic**  
-###> Web Developer  
-###&nbsp;&nbsp;&nbsp;**iWillBanU**  
-###> Systems Admin  
+### > Project Lead  
+### &nbsp;&nbsp;&nbsp;**Logicologist**  
+### > Plugin Developers  
+### &nbsp;&nbsp;&nbsp;**Olzie-12**  
+### &nbsp;&nbsp;&nbsp;**Chr0matic**  
+### > Web Developer  
+### &nbsp;&nbsp;&nbsp;**iWillBanU**  
+### > Systems Admin  
 
 &nbsp;&nbsp;&nbsp;**JimTheScientist**  
 ## Here's some of our history:
