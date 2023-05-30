@@ -5,20 +5,21 @@ Reinventing Minecraft without mods, now featuring your favorite content creators
 ####
 ## Meet the Development Team!
 > Project Lead  
+
 &nbsp;&nbsp;&nbsp;**Logicologist**  
 
 > Plugin Developers  
 
-   **Olzie-12**  
-   **Chr0matic**  
+&nbsp;&nbsp;&nbsp;**Olzie-12**  
+&nbsp;&nbsp;&nbsp;**Chr0matic**  
 
 > Web Developer  
 
-   **iWillBanU**  
+&nbsp;&nbsp;&nbsp;**iWillBanU**  
 
 > Systems Admin  
 
-   **JimTheScientist**  
+&nbsp;&nbsp;&nbsp;**JimTheScientist**  
 ## Here's some of our history:
 - `Season 4 ......................... Coming Soon! .... ~60 Members`
 - `Season 3 ......................... September 2021 .. ~20 Members`
