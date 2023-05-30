@@ -11,12 +11,14 @@
 - iWillBanU - Plugin Developer
 - JimTheScientist - Systems Admin
 ## Here's some of our history:
-- `Season 4 ......................... Coming Soon! .... ~60 Members`
-- `Season 3 ......................... September 2021 .. ~20 Members`
-- `Season 2 ......................... March 2021 ...... ~20 Members`
-- `Season 1 ......................... November 2020 ... ~20 Members`
-- `Season 0 (Craftventure SMP) ...... May 2020 ........  28 Members`
-- `Season -1 (Celestial Space) ...... August 2019 .....  10 Members`
+| Season                        | Release Date    | Members         |
+|-------------------------------|-----------------|-----------------|
+| Season 4                      | Coming Soon!    | ~60 Members     |
+| Season 3                      | September 2021  | ~20 Members     |
+| Season 2                      | March 2021      | ~20 Members     |
+| Season 1                      | November 2020   | ~20 Members     |
+| Season 0 (Craftventure SMP)   | May 2020        | 28 Members      |
+| Season -1 (Celestial Space)   | August 2019     | 10 Members      |
 ## Go check our socials!
 - Twitter: https://twitter.com/TheLogicSMP
 - Website: https://logicsmp.net/
