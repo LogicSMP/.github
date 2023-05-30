@@ -5,7 +5,7 @@ Reinventing Minecraft without mods, now featuring your favorite content creators
 ####
 ## Featuring:
 > **Project Lead**  
- - Logicologist  
+- Logicologist  
 
 > **Plugin Developer**  
  - Olzie-12  
