@@ -3,11 +3,11 @@
 #### We are the team of developers behind the entire LogicSMP Project, slowly expanding since 2019.
 ####
 ## Meet the Development Team!
-- `[Project Lead]` **Logicologist**  
-- `[Plugin Developer]` **Olzie-12**  
-- `[Plugin Developer]` **Chr0matic**  
-- `[Website Developer]` **iWillBanU**  
-- `[Systems Admin]` **JimTheScientist**  
+- [Project Lead] - **Logicologist**  
+- [Plugin Developer] - **Olzie-12**  
+- [Plugin Developer] - **Chr0matic**  
+- [Website Developer] - **iWillBanU**  
+- [Systems Admin] - **JimTheScientist**  
 ## Here's some of our history:
 - `Season 4 ......................... Coming Soon! .... ~60 Members`
 - `Season 3 ......................... September 2021 .. ~20 Members`
