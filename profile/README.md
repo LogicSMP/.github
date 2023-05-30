@@ -3,8 +3,6 @@
 #### We are the team of developers behind the entire LogicSMP Project, slowly expanding since 2019.
 ####
 ## Meet the Development Team!
-
-   
 - Logicologist - Project Lead
 - Alicake - Plugin Developer
 - Olzie-12 - Plugin Developer
