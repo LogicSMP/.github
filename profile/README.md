@@ -5,11 +5,11 @@
 ## Meet the Development Team!
 
    
-- Logicologist `.......` Project Lead
-- Olzie-12 `...........` Plugin Developer
-- Chr0matic `..........` Plugin Developer  
-- iWillBanU `..........` Plugin Developer
-- JimTheScientist `....` Systems Admin
+- Logicologist - Project Lead
+- Olzie-12 - Plugin Developer
+- Chr0matic - Plugin Developer  
+- iWillBanU - Plugin Developer
+- JimTheScientist - Systems Admin
 ## Here's some of our history:
 - `Season 4 ......................... Coming Soon! .... ~60 Members`
 - `Season 3 ......................... September 2021 .. ~20 Members`
