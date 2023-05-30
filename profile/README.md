@@ -6,7 +6,7 @@ Reinventing Minecraft without mods, now featuring your favorite content creators
 ## Meet the Development Team!
 > Project Lead  
 
-   **Logicologist**  
+&nbsp;&nbsp;&nbsp;**Logicologist**  
 
 > Plugin Developers  
 
