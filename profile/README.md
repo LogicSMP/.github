@@ -4,12 +4,12 @@
 ####
 ## Meet the Development Team!
 > Project Lead  
-### &nbsp;&nbsp;&nbsp;**Logicologist**  
+##### &nbsp;&nbsp;&nbsp;**Logicologist**  
 > Plugin Developers  
-### &nbsp;&nbsp;&nbsp;**Olzie-12**  
-### &nbsp;&nbsp;&nbsp;**Chr0matic**  
+##### &nbsp;&nbsp;&nbsp;**Olzie-12**  
+##### &nbsp;&nbsp;&nbsp;**Chr0matic**  
 > Web Developer  
-### &nbsp;&nbsp;&nbsp;**iWillBanU**  
+##### &nbsp;&nbsp;&nbsp;**iWillBanU**  
 > Systems Admin  
 
 &nbsp;&nbsp;&nbsp;**JimTheScientist**  
