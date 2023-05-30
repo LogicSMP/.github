@@ -6,6 +6,7 @@
 
    
 - Logicologist - Project Lead
+- Alicake - Plugin Developer
 - Olzie-12 - Plugin Developer
 - Chr0matic - Plugin Developer  
 - iWillBanU - Website Developer
