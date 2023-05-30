@@ -1,6 +1,5 @@
 ## Welcome to the LogicSMP Organization Page!
-Reinventing Minecraft without mods, now featuring your favorite content creators!
-
+#### *"Reinventing Minecraft without mods, now featuring your favorite content creators!"*
 #### We are the team of developers behind the entire LogicSMP Project, slowly expanding since 2019.
 ####
 ## Meet the Development Team!
