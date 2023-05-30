@@ -23,5 +23,5 @@
 - Twitter: https://twitter.com/TheLogicSMP
 - Website: https://logicsmp.net/
 
-#####
-##### What are you waiting for? Adventure awaits...
+######
+###### What are you waiting for? Adventure awaits...
