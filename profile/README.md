@@ -4,9 +4,9 @@
 ####
 ## Meet the Development Team!
 - Logicologist - Project Lead
+- Chr0matic - Project Lead
 - Alicake - Plugin Developer
-- Olzie-12 - Plugin Developer
-- Chr0matic - Plugin Developer  
+- Olzie-12 - Plugin Developer  
 - iWillBanU - Website Developer
 - JimTheScientist - Systems Admin
 ## Here's some of our history:
