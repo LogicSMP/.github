@@ -13,7 +13,7 @@
 | Season                        | Release Date    | Members         |
 |-------------------------------|-----------------|-----------------|
 | Season 4                      | Coming Soon!    | ~60 Members     |
-| Season 3.5 (S4 Beta)          | June 2023       | 55 Members     |
+| Season 3.5 (S4 Beta)          | June 2023       | 54 Members     |
 | Season 3                      | September 2021  | ~30 Members     |
 | Season 2                      | March 2021      | ~35 Members     |
 | Season 1                      | November 2020   | ~30 Members     |
